@@ -1,0 +1,12 @@
+               ingredients  price quantity Total Price
+1   store-bought pie-crust   5.00        4        20.0
+2        light brown sugar   1.00        2         2.0
+3        all-purpose flour   3.50        5        17.5
+4                     salt   0.99        4        3.96
+5          ground cinnamon   1.99        5        9.95
+6            ground ginger   1.99        2        3.98
+7            ground nutmeg   1.99        3        5.97
+8            ground cloves   1.99        3        5.97
+9               large eggs   2.99        2        5.98
+10           pumpkin puree   3.99        5       19.95
+11         evaporated milk   1.29        3        3.87
